@@ -2,4 +2,4 @@ Flask
 Flask-RESTful
 Flask-JWT
 Flask-SQLalchemy
-uwsgi
+ gunicorn-20.0.4
